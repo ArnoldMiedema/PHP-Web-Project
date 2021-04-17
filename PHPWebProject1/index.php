@@ -3,4 +3,4 @@
 echo 'Hello Framework! oke top';
 echo 'Hello Framework! oke top';
 echo 'Hello Framework! oke top';
-echo 'Hello OM TEJANKEgsetseN ';
+echo 'Hello OM TEJANKEN ';
